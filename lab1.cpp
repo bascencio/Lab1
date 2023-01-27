@@ -6,6 +6,7 @@ using namespace std;
 
 int main(void)
 {
+   // Github change
    // This is the newwest change 
    // used for later
    int a = rand() % 10 + 1;
